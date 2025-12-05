@@ -1,0 +1,6 @@
+name: GlobalLocalChat
+version: 1.0
+main: org.chat.globalLocalChat.GlobalLocalChat
+api-version: '1.19'
+author: kid
+description: Локальный и глобальный чат с настройками

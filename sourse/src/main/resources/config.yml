@@ -1,0 +1,10 @@
+# Радиус локального чата
+chat:
+  local-radius: 150
+
+# Цвета префиксов в формате HEX (#RRGGBB)
+prefix-colors:
+  global: '#00AAFF'    # [г]
+  local: '#00FF00'     # [л]
+  join: '#00FF00'      # [+]
+  quit: '#FF5555'      # [-]
